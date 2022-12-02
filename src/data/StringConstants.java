@@ -3,7 +3,7 @@ package data;
 public class StringConstants {
 
 	public final static String fileExtension = ".csv";
-	public final static String EMP_ID = "EmpID";
+	public final static String EMP_ID = "Employee ID";
 	public final static String EMP_ID1 = "Employee ID #1";
 	public final static String EMP_ID2 = "Employee ID #2";
 	public final static String TOTAL_DAYS = "Days worked";
