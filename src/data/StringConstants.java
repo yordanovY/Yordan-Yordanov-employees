@@ -4,8 +4,8 @@ public class StringConstants {
 
 	public final static String fileExtension = ".csv";
 	public final static String EMP_ID = "EmpID";
-	public final static String EMP_ID1 = "Employee 1 ID";
-	public final static String EMP_ID2 = "Employee 2 ID";
+	public final static String EMP_ID1 = "Employee ID #1";
+	public final static String EMP_ID2 = "Employee ID #2";
 	public final static String TOTAL_DAYS = "Days worked";
 	public final static String PROJECT_ID = "ProjectID";
 	public final static String DATE_FROM = "DateFrom";
