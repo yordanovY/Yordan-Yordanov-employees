@@ -7,9 +7,9 @@ public class StringConstants {
 	public final static String EMP_ID1 = "Employee ID #1";
 	public final static String EMP_ID2 = "Employee ID #2";
 	public final static String TOTAL_DAYS = "Days worked";
-	public final static String PROJECT_ID = "ProjectID";
-	public final static String DATE_FROM = "DateFrom";
-	public final static String DATE_TO = "DateTo";
+	public final static String PROJECT_ID = "Project ID";
+	public final static String DATE_FROM = "Date From";
+	public final static String DATE_TO = "Date To";
 	public final static String WHITE_SPACE = " ";
 	public final static String NO_SPACE = "";
 	public final static String COMMA = ",";
