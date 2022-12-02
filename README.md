@@ -1,1 +1,1 @@
-Yordan-Yordanov-employees project for Sirma Solutions
+Project Yordan-Yordanov-employees for Sirma Solutions
