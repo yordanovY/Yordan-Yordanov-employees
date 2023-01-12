@@ -1,1 +1,1 @@
-Project Yordan-Yordanov-employees for Sirma Solutions
+Project for sorting employee pairs.
